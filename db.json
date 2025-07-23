@@ -1,0 +1,11 @@
+{
+  "user": {
+    "email": "baaesemohammadwaaliwaali@gmail.com",
+    "accessToken": "ya29.a0AS3H6Nz86JxN6VKQn3ch3sojUMEYVX9gWAiHwzvXX-3_HFe4Vyh_pBQDV4itE_VhrHIRznPI_vtRz-qv3eDgYszCj6KoXeFPTd7ALe38DU90TFAATmYhcvzhTDZPORXdNJnh-B_G-JXMi8vc7qr4eMA9piHPQVAtt47m3MWxaCgYKARESARESFQHGX2MiMEGoH15VTv8Cu7lWVyQrUw0175"
+  },
+  "settings": {
+    "receiveEmails": true,
+    "useGmail": true,
+    "sendWelcomeEmail": true
+  }
+}

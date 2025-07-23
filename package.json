@@ -1,0 +1,26 @@
+{
+  "name": "techlearn-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.0",
+    "connect-sqlite3": "^0.9.16",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "googleapis": "^150.0.1",
+    "node-cron": "^4.2.0",
+    "nodemailer": "^7.0.4",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "sqlite3": "^5.1.7"
+  }
+}
